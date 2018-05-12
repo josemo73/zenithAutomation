@@ -1,2 +1,2 @@
 # zenithAutomation
-This is a UI test automation framework using TestNG, Java, Maven and selenium
+This is a UI test automation framework using Java, Maven, Selenium, TestNG and Docker
